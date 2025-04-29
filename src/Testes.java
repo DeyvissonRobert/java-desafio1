@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DesafioSolo {
+public class Testes {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
 
