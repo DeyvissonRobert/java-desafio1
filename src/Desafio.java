@@ -52,7 +52,6 @@ public class Desafio {
                         ⚠⚠ OPÇÃO INVÁLIDA ⚠⚠
                         ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠""");
             }
-            System.out.println("Operação finalizada!🚀");
         }
     }
 }
